@@ -1,5 +1,5 @@
 # frequencyimage
-opportunity for managing and manipulating audio frequency snapshots.
+opportunity for managing and manipulating audio frequency snapshots.<br />tris project arose for the need to provide the frequency characteristics of a microphone into other tools.
 copyright 2023. under the MIT license.
 <p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
 <p align="center">This portion of the code is a template to be customized. 
